@@ -1,5 +1,5 @@
-# JetBrains Academy-Theory
- [from JetBrains Academy/Free Track: Frontend Developer](https://hyperskill.org/tracks/5)
+# JetBrains Academy-Theory(less)
+ [(more)from JetBrains Academy/Free Track: Frontend Developer](https://hyperskill.org/tracks/5)
 ## What is the Web?
 
 The **World Wide Web** is a collection of information resources scattered around the world and linked together by reference. Sometimes this term is shortened to WWW, W3 or simply Web.
