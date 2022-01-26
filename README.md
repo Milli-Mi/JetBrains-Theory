@@ -1,4 +1,4 @@
-# JetBrains Academy-Theory
+# JetBrains Academy-Theory-Free
  [JetBrains Academy/Track: Frontend Developer](https://hyperskill.org/tracks/5)
 ## What is the Web?
 
