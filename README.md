@@ -10,7 +10,7 @@ A group of Web pages that share a common content theme, design and links to each
 
 Often when you visit sites, you can see "**www**" in the address bar of the browser:
 
-https://**www**.google.com
+
 
 ![image](https://user-images.githubusercontent.com/87952989/151135633-e40d5f7b-8df5-4291-85d7-78eab52cc7d8.png)
 
