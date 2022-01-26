@@ -12,7 +12,7 @@ Often when you visit sites, you can see "**www**" in the address bar of the brow
 
 https://**www**.google.com
 
-![image](https://user-images.githubusercontent.com/87952989/151134631-85ec7f1a-3296-4de1-9378-ac3d5ae4145e.png)
+![image](https://user-images.githubusercontent.com/87952989/151135633-e40d5f7b-8df5-4291-85d7-78eab52cc7d8.png)
 
 
 
