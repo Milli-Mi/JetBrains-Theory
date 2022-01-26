@@ -8,4 +8,12 @@ A unit of hypertext data on the W3 is called a **web page**. A web page may cont
 
 A group of Web pages that share a common content theme, design and links to each other is called a **website**. Special programs — **browsers** — are used to download and browse these websites. Most popular browsers: Firefox, Chrome, Opera, Safari.
 
-Often when you visit sites, you can see "www" in the address bar of the browser
+Often when you visit sites, you can see "**www**" in the address bar of the browser:
+
+https://**www**.google.com
+
+![image](https://user-images.githubusercontent.com/87952989/151134631-85ec7f1a-3296-4de1-9378-ac3d5ae4145e.png)
+
+
+
+This prefix indicates that the address of the website belongs to the Internet space of the World Wide Web and is not mandatory.
