@@ -25,7 +25,7 @@ Most people use the terms "Internet" and "WWW" interchangeably, but in fact, the
 
 
 ### *3.Conclusion*
-Simply put, the World Wide Web is a way of obtaining information over the Internet, yet the Internet is also used to access information that is not a part of the Web. Hypertext documents - web pages are the units of the WWW. They may include different content and are usually joined by a shared topic and links into websites. Specific programs called browsers can download websites, so we can explore them.
+Simply put, the World Wide Web is a way of obtaining information over the Internet, yet the Internet is also used to access information that is not a part of the Web. Hypertext documents - web pages are the units of the "WWW". They may include different content and are usually joined by a shared topic and links into websites. Specific programs called browsers can download websites, so we can explore them.
 
 
 
